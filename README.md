@@ -21,7 +21,9 @@ UFOGO 是一款面向 iOS 裝置開發與測試場景的定位模擬與路線模
 - Mac
     安裝 iloader for [Mac](https://github.com/nab138/iloader/releases/latest/download/iloader-darwin-universal.dmg)。
 - Windows
-    安裝 [iTunes](https://apple.co/ms)，並下載對應的 iloader 安裝檔：
+  - [iTunes](https://apple.co/ms)
+  - [Apple Device](https://apps.microsoft.com/detail/9np83lwlpz9k?hl=zh-TW&gl=TW)
+    iloader 安裝檔：
   - [exe 版本](https://github.com/nab138/iloader/releases/latest/download/iloader-windows-x64.exe)
   - [msi 版本](https://github.com/nab138/iloader/releases/latest/download/iloader-windows-x64.msi)
 - IOS 
