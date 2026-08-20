@@ -74,7 +74,7 @@ UFOGO 是一款面向 iOS 裝置開發與測試場景的定位模擬與路線模
 
 如果您喜歡這個專案，並希望支持後續維護與開發，歡迎透過以下方式贊助：
 
-- [Portaly](https://www.buymeacoffee.com/)
+- [Portaly]([https://www.buymeacoffee.com/](https://portaly.cc/leoohyeah/support))
 
 您的支持有助於維持專案開發、測試環境與持續更新。
 
