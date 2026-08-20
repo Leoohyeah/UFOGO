@@ -1,7 +1,7 @@
 # UFOGO
 
 <p align="center">
-  <img src="assets/UFOGO.icon/Assets/icon.png" alt="UFOGO app icon" width="220" />
+  <img src="UFOGO/UFOGO.icon/Assets/UFOGO-AppIcon.png" alt="UFOGO app icon" width="220" />
 </p>
 
 UFOGO 是一款面向 iOS 裝置開發與測試場景的定位模擬與路線模擬工具，主要用於在已連線裝置上進行 GPS 位置模擬與移動軌跡控制。
