@@ -23,7 +23,7 @@ UFOGO 是一款面向 iOS 裝置開發與測試場景的定位模擬與路線模
 - Windows
   - [iTunes](https://apple.co/ms)
   - [Apple Device](https://apps.microsoft.com/detail/9np83lwlpz9k?hl=zh-TW&gl=TW)
-    iloader 安裝檔：
+  iloader 安裝檔：
   - [exe 版本](https://github.com/nab138/iloader/releases/latest/download/iloader-windows-x64.exe)
   - [msi 版本](https://github.com/nab138/iloader/releases/latest/download/iloader-windows-x64.msi)
 - IOS 
@@ -36,7 +36,9 @@ UFOGO 是一款面向 iOS 裝置開發與測試場景的定位模擬與路線模
 2. 登入 Apple ID，並與 iPhone 完成配對。
 3. 在 iLoader 中選擇「管理配對檔案」。
 4. 點選「匯出」手動匯出 `pairingFile.plist`。
-5. 將 `pairingFile.plist` 檔案傳輸到 iOS 裝置的「檔案」App。請勿使用 iCloud 傳輸，因為副檔名可能會遺失。
+5. 將 `pairingFile.plist` 檔案傳輸到 iOS 裝置的「檔案」App。
+- Mac 可使用 AirDrop
+- Windows 可使用 Apple Device
 
 ### 3. 側載 UFOGO IPA
 
