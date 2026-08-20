@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Leoohyeah/UFOGO/main/assets/UFOGO.png" alt="UFOGO app icon" width="220" />
+  <img src="https://github.com/Leoohyeah/UFOGO/blob/main/assets/UFOGO.png" alt="UFOGO app icon" width="220" />
 </p>
 
 <h1 align="center">UFOGO</h1>
