@@ -1,6 +1,6 @@
 //
-//  UFOGOTests.swift
-//  UFOGOTests
+//  UFOGeoTests.swift
+//  UFOGeoTests
 //
 //  Created by Stephen on 3/26/25.
 //
@@ -8,9 +8,9 @@
 import Foundation
 import Testing
 import CoreLocation
-@testable import UFOGO
+@testable import UFOGeo
 
-struct UFOGOTests {
+struct UFOGeoTests {
 
     @Test func inlineCoordinateParserAcceptsValidLinesAndRejectsInvalidOnes() async throws {
         let coordinates = CoordinateImportParser.parseInline(
@@ -140,7 +140,7 @@ struct UFOGOTests {
     }
 
     @Test @MainActor func routeUnfavoriteRemainsAvailableDuringCurrentSession() {
-        let defaults = UserDefaults(suiteName: "UFOGOTests-\(UUID().uuidString)")!
+        let defaults = UserDefaults(suiteName: "UFOGeoTests-\(UUID().uuidString)")!
         let manager = JoystickModeManager(defaults: defaults)
         let route = SimulationRoute(name: "路線 #1", points: [], createdDate: Date(), isFavorite: true)
 
@@ -158,7 +158,7 @@ struct UFOGOTests {
     }
 
     @Test @MainActor func routeLaunchCleanupKeepsFavoritesAndRuntimeReloadDoesNotClean() {
-        let defaults = UserDefaults(suiteName: "UFOGOTests-\(UUID().uuidString)")!
+        let defaults = UserDefaults(suiteName: "UFOGeoTests-\(UUID().uuidString)")!
         let manager = JoystickModeManager(defaults: defaults)
         let transientRoute = SimulationRoute(name: "路線 #1", points: [], createdDate: Date())
         let favoriteRoute = SimulationRoute(

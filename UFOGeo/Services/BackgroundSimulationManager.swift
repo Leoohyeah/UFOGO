@@ -89,7 +89,7 @@ final class BackgroundSimulationManager: ObservableObject {
         lastBackgroundNotificationModeKey = modeKey
 
         let content = UNMutableNotificationContent()
-        content.title = "UFOGO"
+        content.title = "UFOGeo"
         content.body = body
         content.sound = nil
         let identifier = "com.ufogo.simulation-background.\(modeKey).\(Int(now.timeIntervalSince1970 * 1000))"

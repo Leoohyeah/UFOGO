@@ -1,13 +1,13 @@
 //
-//  UFOGOUITests.swift
-//  UFOGOUITests
+//  UFOGeoUITests.swift
+//  UFOGeoUITests
 //
 //  Created by Stephen on 3/26/25.
 //
 
 import XCTest
 
-final class UFOGOUITests: XCTestCase {
+final class UFOGeoUITests: XCTestCase {
 
     override func setUpWithError() throws {
         continueAfterFailure = false

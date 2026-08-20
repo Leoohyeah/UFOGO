@@ -16,9 +16,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "DC6F1D362D94EADD0071B2B6"
-               BuildableName = "UFOGO.app"
-               BlueprintName = "UFOGO"
-               ReferencedContainer = "container:UFOGO.xcodeproj">
+               BuildableName = "UFOGeo.app"
+               BlueprintName = "UFOGeo"
+               ReferencedContainer = "container:UFOGeo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -36,9 +36,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "DC6F1D472D94EADF0071B2B6"
-               BuildableName = "UFOGOTests.xctest"
-               BlueprintName = "UFOGOTests"
-               ReferencedContainer = "container:UFOGO.xcodeproj">
+               BuildableName = "UFOGeoTests.xctest"
+               BlueprintName = "UFOGeoTests"
+               ReferencedContainer = "container:UFOGeo.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -47,9 +47,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "DC6F1D512D94EADF0071B2B6"
-               BuildableName = "UFOGOUITests.xctest"
-               BlueprintName = "UFOGOUITests"
-               ReferencedContainer = "container:UFOGO.xcodeproj">
+               BuildableName = "UFOGeoUITests.xctest"
+               BlueprintName = "UFOGeoUITests"
+               ReferencedContainer = "container:UFOGeo.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -69,9 +69,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "DC6F1D362D94EADD0071B2B6"
-            BuildableName = "UFOGO.app"
-            BlueprintName = "UFOGO"
-            ReferencedContainer = "container:UFOGO.xcodeproj">
+            BuildableName = "UFOGeo.app"
+            BlueprintName = "UFOGeo"
+            ReferencedContainer = "container:UFOGeo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -86,9 +86,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "DC6F1D362D94EADD0071B2B6"
-            BuildableName = "UFOGO.app"
-            BlueprintName = "UFOGO"
-            ReferencedContainer = "container:UFOGO.xcodeproj">
+            BuildableName = "UFOGeo.app"
+            BlueprintName = "UFOGeo"
+            ReferencedContainer = "container:UFOGeo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

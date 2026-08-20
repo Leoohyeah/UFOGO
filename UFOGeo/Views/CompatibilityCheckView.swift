@@ -169,15 +169,15 @@ struct CompatibilityCheckView: View {
                                 showSupportAlert = true
                             }
                         } label: {
-                            Label("贊助 UFOGO", systemImage: "heart.fill")
+                            Label("贊助 UFOGeo", systemImage: "heart.fill")
                         }
                     } header: {
-                        Text("支持 UFOGO")
+                        Text("支持 UFOGeo")
                     } footer: {
-                        Text("如果喜歡UFOGO，歡迎贊助作者。")
+                        Text("如果喜歡UFOGeo，歡迎贊助作者。")
                     }
                 }
-            .alert("贊助 UFOGO", isPresented: $showSupportAlert) {
+            .alert("贊助 UFOGeo", isPresented: $showSupportAlert) {
                 Button("確定", role: .cancel) { }
             } message: {
                 Text("贊助連結尚未設定。")
@@ -332,7 +332,7 @@ struct CompatibilityCheckView: View {
     private var connectionOverviewDetail: String {
         if !pairingExists { return "先導入此 iPhone 的配對文件，才能啟動定位或路線。" }
         switch tunnelStatus {
-        case .reachable: return "UFOGO 已可連接本機 VPN Tunnel。"
+        case .reachable: return "UFOGeo 已可連接本機 VPN Tunnel。"
         case .failed: return "確認已連上 Wi-Fi 並開啟 LocalDevVPN，再重新測試。"
         case .testing: return "正在確認 LocalDevVPN 是否可以連線。"
         }

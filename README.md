@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/Leoohyeah/UFOGO/blob/main/assets/UFOGO.png" alt="UFOGO app icon" width="220" />
+  <img src="https://github.com/Leoohyeah/UFOGeo/blob/main/assets/UFOGeo.png" alt="UFOGeo app icon" width="220" />
 </p>
 
-UFOGO 是一款面向 iOS 裝置開發與測試場景的定位模擬與路線模擬工具，主要用於在已連線裝置上進行 GPS 位置模擬與移動軌跡控制。
+UFOGeo 是一款面向 iOS 裝置開發與測試場景的定位模擬與路線模擬工具，主要用於在已連線裝置上進行 GPS 位置模擬與移動軌跡控制。
 
 ## 專案簡介
 
@@ -36,17 +36,17 @@ UFOGO 是一款面向 iOS 裝置開發與測試場景的定位模擬與路線模
 4. 點選「匯出」手動匯出 `pairingFile.plist`。
 5. 將 `pairingFile.plist` 檔案傳輸到 iOS 裝置的「檔案」App。請勿使用 iCloud 傳輸，因為副檔名可能會遺失。
 
-### 3. 側載 UFOGO IPA
+### 3. 側載 UFOGeo IPA
 
-1. 下載最新的 [UFOGO IPA](https://github.com/Leoohyeah/UFOGO/releases/latest)
+1. 下載最新的 [UFOGeo IPA](https://github.com/Leoohyeah/UFOGeo/releases/latest)
 2. 開啟 iLoader
 3. 登入 Apple ID，並與 iPhone 完成配對。
-4. 在 iLoader 選擇「匯入IPA」，選擇匯入剛下載的 UFOGO IPA
+4. 在 iLoader 選擇「匯入IPA」，選擇匯入剛下載的 UFOGeo IPA
 
-### 4. IOS 執行 UFOGO APP
+### 4. IOS 執行 UFOGeo APP
 
 1. IOS 開啟 LocalDevVPN 點選 Connect
-2. IOS 開啟 UFOGO APP
+2. IOS 開啟 UFOGeo APP
 3. 在匯入配對檔案的地方選擇剛剛放進裝置的 `pairingFile.plist` 
 4. Wifi情況下可正常使用，行動數據使用時，請先開關一次行動數據或飛航模式
 

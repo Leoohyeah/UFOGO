@@ -834,12 +834,12 @@ struct LocationSimulationUIView: View {
                     coordinate: restoreCoordinate,
                     deviceIP: restoreIP,
                     pairingFile: restorePairingFile,
-                    operation: "葉子恢復 UFOGO 定位"
+                    operation: "葉子恢復 UFOGeo 定位"
                 )
                 guard case .success = restoreResult else {
                     throw restoreResult.failure ?? LocationSimulationError(
                         code: 11,
-                        operation: "葉子恢復 UFOGO 定位"
+                        operation: "葉子恢復 UFOGeo 定位"
                     )
                 }
                 selectedCoordinate = restoreCoordinate
@@ -863,7 +863,7 @@ struct LocationSimulationUIView: View {
     private func beginLeafBackgroundTask() {
         guard leafBackgroundTaskID == .invalid else { return }
         leafBackgroundTaskID = UIApplication.shared.beginBackgroundTask(
-            withName: "UFOGOLocationRefresh"
+            withName: "UFOGeoLocationRefresh"
         ) {
             Task { @MainActor in
                 sharedMapState.isLocationRefreshCycleActive = false

@@ -341,7 +341,7 @@ private final class ProductionDeviceLocationTransport: DeviceLocationTransport {
             tunnel_create_rppairing(
                 $0,
                 socklen_t(MemoryLayout<sockaddr_in>.stride),
-                "UFOGOLocation",
+                "UFOGeoLocation",
                 pairingHandle,
                 nil,
                 nil,

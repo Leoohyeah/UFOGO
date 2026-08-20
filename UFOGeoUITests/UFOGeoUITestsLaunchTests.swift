@@ -1,13 +1,13 @@
 //
-//  UFOGOUITestsLaunchTests.swift
-//  UFOGOUITests
+//  UFOGeoUITestsLaunchTests.swift
+//  UFOGeoUITests
 //
 //  Created by Stephen on 3/26/25.
 //
 
 import XCTest
 
-final class UFOGOUITestsLaunchTests: XCTestCase {
+final class UFOGeoUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

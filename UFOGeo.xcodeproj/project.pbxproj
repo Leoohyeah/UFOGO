@@ -12,50 +12,50 @@
 			containerPortal = DC6F1D2F2D94EADD0071B2B6 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = DC6F1D362D94EADD0071B2B6;
-			remoteInfo = UFOGO;
+			remoteInfo = UFOGeo;
 		};
 		DC6F1D532D94EADF0071B2B6 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = DC6F1D2F2D94EADD0071B2B6 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = DC6F1D362D94EADD0071B2B6;
-			remoteInfo = UFOGO;
+			remoteInfo = UFOGeo;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		DC6F1D372D94EADD0071B2B6 /* UFOGO.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UFOGO.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		DC6F1D482D94EADF0071B2B6 /* UFOGOTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UFOGOTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		DC6F1D522D94EADF0071B2B6 /* UFOGOUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UFOGOUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		DC6F1D372D94EADD0071B2B6 /* UFOGeo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UFOGeo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		DC6F1D482D94EADF0071B2B6 /* UFOGeoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UFOGeoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		DC6F1D522D94EADF0071B2B6 /* UFOGeoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UFOGeoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		1775D3612D9644FD00DFA8E0 /* Exceptions for "UFOGO" folder in "UFOGO" target */ = {
+		1775D3612D9644FD00DFA8E0 /* Exceptions for "UFOGeo" folder in "UFOGeo" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = DC6F1D362D94EADD0071B2B6 /* UFOGO */;
+			target = DC6F1D362D94EADD0071B2B6 /* UFOGeo */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		DC6F1D392D94EADD0071B2B6 /* UFOGO */ = {
+		DC6F1D392D94EADD0071B2B6 /* UFOGeo */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				1775D3612D9644FD00DFA8E0 /* Exceptions for "UFOGO" folder in "UFOGO" target */,
+				1775D3612D9644FD00DFA8E0 /* Exceptions for "UFOGeo" folder in "UFOGeo" target */,
 			);
-			path = UFOGO;
+			path = UFOGeo;
 			sourceTree = "<group>";
 		};
-		DC6F1D4B2D94EADF0071B2B6 /* UFOGOTests */ = {
+		DC6F1D4B2D94EADF0071B2B6 /* UFOGeoTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = UFOGOTests;
+			path = UFOGeoTests;
 			sourceTree = "<group>";
 		};
-		DC6F1D552D94EADF0071B2B6 /* UFOGOUITests */ = {
+		DC6F1D552D94EADF0071B2B6 /* UFOGeoUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = UFOGOUITests;
+			path = UFOGeoUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -88,9 +88,9 @@
 		DC6F1D2E2D94EADD0071B2B6 = {
 			isa = PBXGroup;
 			children = (
-				DC6F1D392D94EADD0071B2B6 /* UFOGO */,
-				DC6F1D4B2D94EADF0071B2B6 /* UFOGOTests */,
-				DC6F1D552D94EADF0071B2B6 /* UFOGOUITests */,
+				DC6F1D392D94EADD0071B2B6 /* UFOGeo */,
+				DC6F1D4B2D94EADF0071B2B6 /* UFOGeoTests */,
+				DC6F1D552D94EADF0071B2B6 /* UFOGeoUITests */,
 				DC6F1D752D94EB620071B2B6 /* Frameworks */,
 				DC6F1D382D94EADD0071B2B6 /* Products */,
 			);
@@ -99,9 +99,9 @@
 		DC6F1D382D94EADD0071B2B6 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				DC6F1D372D94EADD0071B2B6 /* UFOGO.app */,
-				DC6F1D482D94EADF0071B2B6 /* UFOGOTests.xctest */,
-				DC6F1D522D94EADF0071B2B6 /* UFOGOUITests.xctest */,
+				DC6F1D372D94EADD0071B2B6 /* UFOGeo.app */,
+				DC6F1D482D94EADF0071B2B6 /* UFOGeoTests.xctest */,
+				DC6F1D522D94EADF0071B2B6 /* UFOGeoUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -116,9 +116,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		DC6F1D362D94EADD0071B2B6 /* UFOGO */ = {
+		DC6F1D362D94EADD0071B2B6 /* UFOGeo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DC6F1D5C2D94EADF0071B2B6 /* Build configuration list for PBXNativeTarget "UFOGO" */;
+			buildConfigurationList = DC6F1D5C2D94EADF0071B2B6 /* Build configuration list for PBXNativeTarget "UFOGeo" */;
 			buildPhases = (
 				DC6F1D332D94EADD0071B2B6 /* Sources */,
 				DC6F1D342D94EADD0071B2B6 /* Frameworks */,
@@ -129,18 +129,18 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				DC6F1D392D94EADD0071B2B6 /* UFOGO */,
+				DC6F1D392D94EADD0071B2B6 /* UFOGeo */,
 			);
-			name = UFOGO;
+			name = UFOGeo;
 			packageProductDependencies = (
 			);
-			productName = UFOGO;
-			productReference = DC6F1D372D94EADD0071B2B6 /* UFOGO.app */;
+			productName = UFOGeo;
+			productReference = DC6F1D372D94EADD0071B2B6 /* UFOGeo.app */;
 			productType = "com.apple.product-type.application";
 		};
-		DC6F1D472D94EADF0071B2B6 /* UFOGOTests */ = {
+		DC6F1D472D94EADF0071B2B6 /* UFOGeoTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DC6F1D5F2D94EADF0071B2B6 /* Build configuration list for PBXNativeTarget "UFOGOTests" */;
+			buildConfigurationList = DC6F1D5F2D94EADF0071B2B6 /* Build configuration list for PBXNativeTarget "UFOGeoTests" */;
 			buildPhases = (
 				DC6F1D442D94EADF0071B2B6 /* Sources */,
 				DC6F1D452D94EADF0071B2B6 /* Frameworks */,
@@ -152,18 +152,18 @@
 				DC6F1D4A2D94EADF0071B2B6 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				DC6F1D4B2D94EADF0071B2B6 /* UFOGOTests */,
+				DC6F1D4B2D94EADF0071B2B6 /* UFOGeoTests */,
 			);
-			name = UFOGOTests;
+			name = UFOGeoTests;
 			packageProductDependencies = (
 			);
-			productName = UFOGOTests;
-			productReference = DC6F1D482D94EADF0071B2B6 /* UFOGOTests.xctest */;
+			productName = UFOGeoTests;
+			productReference = DC6F1D482D94EADF0071B2B6 /* UFOGeoTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		DC6F1D512D94EADF0071B2B6 /* UFOGOUITests */ = {
+		DC6F1D512D94EADF0071B2B6 /* UFOGeoUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DC6F1D622D94EADF0071B2B6 /* Build configuration list for PBXNativeTarget "UFOGOUITests" */;
+			buildConfigurationList = DC6F1D622D94EADF0071B2B6 /* Build configuration list for PBXNativeTarget "UFOGeoUITests" */;
 			buildPhases = (
 				DC6F1D4E2D94EADF0071B2B6 /* Sources */,
 				DC6F1D4F2D94EADF0071B2B6 /* Frameworks */,
@@ -175,13 +175,13 @@
 				DC6F1D542D94EADF0071B2B6 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				DC6F1D552D94EADF0071B2B6 /* UFOGOUITests */,
+				DC6F1D552D94EADF0071B2B6 /* UFOGeoUITests */,
 			);
-			name = UFOGOUITests;
+			name = UFOGeoUITests;
 			packageProductDependencies = (
 			);
-			productName = UFOGOUITests;
-			productReference = DC6F1D522D94EADF0071B2B6 /* UFOGOUITests.xctest */;
+			productName = UFOGeoUITests;
+			productReference = DC6F1D522D94EADF0071B2B6 /* UFOGeoUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -208,7 +208,7 @@
 					};
 				};
 			};
-			buildConfigurationList = DC6F1D322D94EADD0071B2B6 /* Build configuration list for PBXProject "UFOGO" */;
+			buildConfigurationList = DC6F1D322D94EADD0071B2B6 /* Build configuration list for PBXProject "UFOGeo" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -226,9 +226,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				DC6F1D362D94EADD0071B2B6 /* UFOGO */,
-				DC6F1D472D94EADF0071B2B6 /* UFOGOTests */,
-				DC6F1D512D94EADF0071B2B6 /* UFOGOUITests */,
+				DC6F1D362D94EADD0071B2B6 /* UFOGeo */,
+				DC6F1D472D94EADF0071B2B6 /* UFOGeoTests */,
+				DC6F1D512D94EADF0071B2B6 /* UFOGeoUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -284,12 +284,12 @@
 /* Begin PBXTargetDependency section */
 		DC6F1D4A2D94EADF0071B2B6 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = DC6F1D362D94EADD0071B2B6 /* UFOGO */;
+			target = DC6F1D362D94EADD0071B2B6 /* UFOGeo */;
 			targetProxy = DC6F1D492D94EADF0071B2B6 /* PBXContainerItemProxy */;
 		};
 		DC6F1D542D94EADF0071B2B6 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = DC6F1D362D94EADD0071B2B6 /* UFOGO */;
+			target = DC6F1D362D94EADD0071B2B6 /* UFOGeo */;
 			targetProxy = DC6F1D532D94EADF0071B2B6 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -422,12 +422,12 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
 				CLANG_ENABLE_MODULES = YES;
-				CODE_SIGN_ENTITLEMENTS = UFOGO/UFOGO.entitlements;
+				CODE_SIGN_ENTITLEMENTS = UFOGeo/UFOGeo.entitlements;
 				CODE_SIGN_IDENTITY = "Apple Development";
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = YES;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = DGF4PA822C;
 				ENABLE_DEBUG_DYLIB = YES;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
@@ -435,15 +435,15 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/UFOGO/idevice",
+					"$(PROJECT_DIR)/UFOGeo/idevice",
 				);
-				INFOPLIST_FILE = UFOGO/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = UFOGO;
+				INFOPLIST_FILE = UFOGeo/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = UFOGeo;
 				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
 				INFOPLIST_KEY_LSSupportsOpeningDocumentsInPlace = YES;
-				INFOPLIST_KEY_NSLocalNetworkUsageDescription = "UFOGO 需要透過區域網路或 VPN 與已配對的 iPhone 通訊，以設定模擬定位。";
-				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "允許 UFOGO 永遠取用位置，才能在背景持續維持定位模擬與連線。";
-				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "UFOGO 需要取得你目前的位置，作為搖桿移動與定位模擬的起始座標。";
+				INFOPLIST_KEY_NSLocalNetworkUsageDescription = "UFOGeo 需要透過區域網路或 VPN 與已配對的 iPhone 通訊，以設定模擬定位。";
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "允許 UFOGeo 永遠取用位置，才能在背景持續維持定位模擬與連線。";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "UFOGeo 需要取得你目前的位置，作為搖桿移動與定位模擬的起始座標。";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -460,11 +460,11 @@
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/UFOGO/idevice",
+					"$(PROJECT_DIR)/UFOGeo/idevice",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 15.1;
 				MARKETING_VERSION = 1.0.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.ufogo.app;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ufogeo.app;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = auto;
@@ -472,7 +472,7 @@
 				SUPPORTS_MACCATALYST = NO;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_INCLUDE_PATHS = "$(inherited) $(PROJECT_DIR)/UFOGO/idevice";
+				SWIFT_INCLUDE_PATHS = "$(inherited) $(PROJECT_DIR)/UFOGeo/idevice";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -487,27 +487,27 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
 				CLANG_ENABLE_MODULES = YES;
-				CODE_SIGN_ENTITLEMENTS = UFOGO/UFOGO.entitlements;
+				CODE_SIGN_ENTITLEMENTS = UFOGeo/UFOGeo.entitlements;
 				CODE_SIGN_IDENTITY = "Apple Development";
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = YES;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = DGF4PA822C;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
 				GENERATE_INFOPLIST_FILE = YES;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/UFOGO/idevice",
+					"$(PROJECT_DIR)/UFOGeo/idevice",
 				);
-				INFOPLIST_FILE = UFOGO/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = UFOGO;
+				INFOPLIST_FILE = UFOGeo/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = UFOGeo;
 				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
 				INFOPLIST_KEY_LSSupportsOpeningDocumentsInPlace = YES;
-				INFOPLIST_KEY_NSLocalNetworkUsageDescription = "UFOGO 需要透過區域網路或 VPN 與已配對的 iPhone 通訊，以設定模擬定位。";
-				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "允許 UFOGO 永遠取用位置，才能在背景持續維持定位模擬與連線。";
-				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "UFOGO 需要取得你目前的位置，作為搖桿移動與定位模擬的起始座標。";
+				INFOPLIST_KEY_NSLocalNetworkUsageDescription = "UFOGeo 需要透過區域網路或 VPN 與已配對的 iPhone 通訊，以設定模擬定位。";
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "允許 UFOGeo 永遠取用位置，才能在背景持續維持定位模擬與連線。";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "UFOGeo 需要取得你目前的位置，作為搖桿移動與定位模擬的起始座標。";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -524,11 +524,11 @@
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/UFOGO/idevice",
+					"$(PROJECT_DIR)/UFOGeo/idevice",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 15.1;
 				MARKETING_VERSION = 1.0.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.ufogo.app;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ufogeo.app;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = auto;
@@ -536,7 +536,7 @@
 				SUPPORTS_MACCATALYST = NO;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_INCLUDE_PATHS = "$(inherited) $(PROJECT_DIR)/UFOGO/idevice";
+				SWIFT_INCLUDE_PATHS = "$(inherited) $(PROJECT_DIR)/UFOGeo/idevice";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				XROS_DEPLOYMENT_TARGET = 2.2;
@@ -554,12 +554,12 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/UFOGO/idevice",
+					"$(PROJECT_DIR)/UFOGeo/idevice",
 				);
 				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/UFOGO/idevice",
+					"$(PROJECT_DIR)/UFOGeo/idevice",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 15.1;
 				MARKETING_VERSION = 1.0;
@@ -568,10 +568,10 @@
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SWIFT_EMIT_LOC_STRINGS = NO;
-				SWIFT_INCLUDE_PATHS = "$(inherited) $(PROJECT_DIR)/UFOGO/idevice";
+				SWIFT_INCLUDE_PATHS = "$(inherited) $(PROJECT_DIR)/UFOGeo/idevice";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/UFOGO.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/UFOGO";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/UFOGeo.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/UFOGeo";
 				XROS_DEPLOYMENT_TARGET = 2.2;
 			};
 			name = Debug;
@@ -587,12 +587,12 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/UFOGO/idevice",
+					"$(PROJECT_DIR)/UFOGeo/idevice",
 				);
 				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/UFOGO/idevice",
+					"$(PROJECT_DIR)/UFOGeo/idevice",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 15.1;
 				MARKETING_VERSION = 1.0;
@@ -601,10 +601,10 @@
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SWIFT_EMIT_LOC_STRINGS = NO;
-				SWIFT_INCLUDE_PATHS = "$(inherited) $(PROJECT_DIR)/UFOGO/idevice";
+				SWIFT_INCLUDE_PATHS = "$(inherited) $(PROJECT_DIR)/UFOGeo/idevice";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/UFOGO.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/UFOGO";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/UFOGeo.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/UFOGeo";
 				XROS_DEPLOYMENT_TARGET = 2.2;
 			};
 			name = Release;
@@ -627,7 +627,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_TARGET_NAME = UFOGO;
+				TEST_TARGET_NAME = UFOGeo;
 				XROS_DEPLOYMENT_TARGET = 2.2;
 			};
 			name = Debug;
@@ -650,7 +650,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_TARGET_NAME = UFOGO;
+				TEST_TARGET_NAME = UFOGeo;
 				XROS_DEPLOYMENT_TARGET = 2.2;
 			};
 			name = Release;
@@ -658,7 +658,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		DC6F1D322D94EADD0071B2B6 /* Build configuration list for PBXProject "UFOGO" */ = {
+		DC6F1D322D94EADD0071B2B6 /* Build configuration list for PBXProject "UFOGeo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DC6F1D5A2D94EADF0071B2B6 /* Debug */,
@@ -667,7 +667,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Debug;
 		};
-		DC6F1D5C2D94EADF0071B2B6 /* Build configuration list for PBXNativeTarget "UFOGO" */ = {
+		DC6F1D5C2D94EADF0071B2B6 /* Build configuration list for PBXNativeTarget "UFOGeo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DC6F1D5D2D94EADF0071B2B6 /* Debug */,
@@ -676,7 +676,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Debug;
 		};
-		DC6F1D5F2D94EADF0071B2B6 /* Build configuration list for PBXNativeTarget "UFOGOTests" */ = {
+		DC6F1D5F2D94EADF0071B2B6 /* Build configuration list for PBXNativeTarget "UFOGeoTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DC6F1D602D94EADF0071B2B6 /* Debug */,
@@ -685,7 +685,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Debug;
 		};
-		DC6F1D622D94EADF0071B2B6 /* Build configuration list for PBXNativeTarget "UFOGOUITests" */ = {
+		DC6F1D622D94EADF0071B2B6 /* Build configuration list for PBXNativeTarget "UFOGeoUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DC6F1D632D94EADF0071B2B6 /* Debug */,

@@ -2,7 +2,7 @@ import SwiftUI
 import UserNotifications
 
 @main
-struct UFOGOApp: App {
+struct UFOGeoApp: App {
     @StateObject private var updateCheckManager = UpdateCheckManager()
 
     init() {
