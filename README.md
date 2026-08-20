@@ -38,7 +38,7 @@ UFOGO 是一款面向 iOS 裝置開發與測試場景的定位模擬與路線模
 
 ### 3. 側載 UFOGO IPA
 
-1. 下載最新的 [UFOGO IPA]()
+1. 下載最新的 [UFOGO IPA](https://github.com/Leoohyeah/UFOGO/releases/latest)
 2. 開啟 iLoader
 3. 登入 Apple ID，並與 iPhone 完成配對。
 4. 在 iLoader 選擇「匯入IPA」，選擇匯入剛下載的 UFOGO IPA
