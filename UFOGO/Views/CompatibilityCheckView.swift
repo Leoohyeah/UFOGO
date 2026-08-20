@@ -26,8 +26,7 @@ struct CompatibilityCheckView: View {
     @State private var pairingExists = false
     @FocusState private var isSimulationSpeedFocused: Bool
 
-    // Replace with the real support URL when one is available.
-    private let supportURL: URL? = nil
+    private let supportURL: URL? = URL(string: "https://portaly.cc/leoohyeah/support")
 
     private var tunnelStatus: TunnelStatus {
         switch sharedMapState.isTunnelReachable {
