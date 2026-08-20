@@ -19,20 +19,18 @@ UFOGO 是一款面向 iOS 裝置開發與測試場景的定位模擬與路線模
 ### 1. 準備必要工具
 
 - Mac
-    安裝 iloader for [Mac](https://github.com/nab138/iloader/releases/latest/download/iloader-darwin-universal.dmg)。
+  - iLoader for [Mac](https://github.com/nab138/iloader/releases/latest/download/iloader-darwin-universal.dmg)。
 - Windows
   - [iTunes](https://apple.co/ms)
   - [Apple Device](https://apps.microsoft.com/detail/9np83lwlpz9k?hl=zh-TW&gl=TW)
-  iloader 安裝檔：
-  - [exe 版本](https://github.com/nab138/iloader/releases/latest/download/iloader-windows-x64.exe)
-  - [msi 版本](https://github.com/nab138/iloader/releases/latest/download/iloader-windows-x64.msi)
-- IOS 
-    安裝 [LocalDevVPN](https://apps.apple.com/us/app/localdevvpn/id6755608044)，用於 IOS 開發環境下的 VPN / 通訊設定。
-    IOS 請務必開啟 `開發者模式`。
+  - iLoader [exe](https://github.com/nab138/iloader/releases/latest/download/iloader-windows-x64.exe) 或 [msi](https://github.com/nab138/iloader/releases/latest/download/iloader-windows-x64.msi) 擇一
+- IOS
+  - 安裝 [LocalDevVPN](https://apps.apple.com/us/app/localdevvpn/id6755608044)，用於 IOS 開發環境下的 VPN / 通訊設定。
+  - 請務必開啟 `開發者模式`。
 
 ### 2. 取得 Pairing File
 
-1. 安裝 [iLoader](https://github.com/nab138/iloader)。
+1. 安裝後打開 [iLoader](https://github.com/nab138/iloader)。
 2. 登入 Apple ID，並與 iPhone 完成配對。
 3. 在 iLoader 中選擇「管理配對檔案」。
 4. 點選「匯出」手動匯出 `pairingFile.plist`。
@@ -58,7 +56,7 @@ UFOGO 是一款面向 iOS 裝置開發與測試場景的定位模擬與路線模
 
 - [StikDebug](https://github.com/StephenDev0/StikDebug)：提供相關裝置配對與通訊模式的參考範例。
 - [idevice](https://github.com/jkcoxson/idevice)：作為 iDevice 連線與裝置控制相關流程的技術參考。
-- [iloader](https://github.com/nab138/iloader)：提供 macOS / Windows 環境下的配對與裝置連線工具支援。
+- [iLoader](https://github.com/nab138/iloader)：提供 macOS / Windows 環境下的配對與裝置連線工具支援。
 
 ## 授權
 
@@ -78,7 +76,7 @@ UFOGO 是一款面向 iOS 裝置開發與測試場景的定位模擬與路線模
 
 如果您喜歡這個專案，並希望支持後續維護與開發，歡迎透過以下方式贊助：
 
-- [Portaly](https://portaly.cc/leoohyeah/support)
+- :heart: [Portaly](https://portaly.cc/leoohyeah/support)
 
 您的支持有助於維持專案開發、測試環境與持續更新。
 
