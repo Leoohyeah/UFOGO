@@ -383,10 +383,7 @@ struct LocationSimulationUIView: View {
         .padding(.horizontal, 16)
         .padding(.top, 8)
         .padding(.bottom, 10)
-        .frame(
-            height: uiState.isSimulating ? nil : layout.compactPanelHeight,
-            alignment: .bottom
-        )
+        .frame(height: layout.compactPanelHeight, alignment: .bottom)
         .animation(.spring(response: 0.3, dampingFraction: 0.8), value: uiState.isSimulating)
         .panelStyle(cornerRadius: 18)
         .shadow(color: .black.opacity(0.14), radius: 12, y: 4)

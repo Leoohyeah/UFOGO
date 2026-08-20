@@ -87,7 +87,10 @@ struct PathSimulationView: View {
                     speed: $simulationSpeed,
                     onStop: { stopRouteSimulationNow() }
                 )
-                .padding(16)
+                .padding(.horizontal, 16)
+                .padding(.top, 8)
+                .padding(.bottom, 10)
+                .frame(height: layout.compactPanelHeight, alignment: .bottom)
                 .panelStyle(cornerRadius: 18)
                 .shadow(color: .black.opacity(0.14), radius: 12, y: 4)
                 .padding(.horizontal, layout.horizontalPadding)
