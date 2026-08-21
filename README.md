@@ -30,11 +30,12 @@ UFOGeo 是一款面向 iOS 裝置開發與測試場景的定位模擬與路線�
 
 ### 2. 取得 Pairing File
 
-1. 安裝後打開 [iLoader](https://github.com/nab138/iloader)。
-2. 登入 Apple ID，並與 iPhone 完成配對。
-3. 在 iLoader 中選擇「管理配對檔案」。
-4. 點選「匯出」手動匯出 `pairingFile.plist`。
-5. 將 `pairingFile.plist` 檔案傳輸到 iOS 裝置的「檔案」App。
+1. 電腦請先安裝對應的 iLoader。
+2. 安裝後打開 iLoader。
+3. 登入 Apple ID，並與 iPhone 完成配對。
+4. 在 iLoader 中選擇「管理配對檔案」。
+5. 點選「匯出」手動匯出 `pairingFile.plist`。
+6. 將 `pairingFile.plist` 檔案傳輸到 iOS 裝置的「檔案」App。
 - Mac 可使用 AirDrop
 - Windows 可使用 Apple Device
 
