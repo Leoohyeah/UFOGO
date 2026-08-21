@@ -16,7 +16,7 @@ UFOGeo 是一款面向 iOS 裝置開發與測試場景的定位模擬與路線�
 
 ## 安裝與設定
 
-### 1. 準備必要工具
+### 1. 首次準備必要工具 (需取得 `pairingFile.plist`)
 
 一台電腦 (Mac or Windows) 跟一台 IOS 裝置
 
