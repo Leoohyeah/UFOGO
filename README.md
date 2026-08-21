@@ -18,6 +18,8 @@ UFOGeo 是一款面向 iOS 裝置開發與測試場景的定位模擬與路線�
 
 ### 1. 準備必要工具
 
+一台電腦
+
 - Mac
   - iLoader for [Mac](https://github.com/nab138/iloader/releases/latest/download/iloader-darwin-universal.dmg)。
 - Windows
