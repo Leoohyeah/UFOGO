@@ -54,10 +54,11 @@ UFOGeo 是一款面向 iOS 裝置開發與測試場景的定位模擬與路線�
 
 ### 4. IOS 執行 UFOGeo APP
 
-1. IOS 開啟 LocalDevVPN 點選 Connect
-2. IOS 開啟 UFOGeo APP
-3. 在匯入配對檔案的地方選擇剛剛放進裝置的 `pairingFile.plist` 
-4. Wifi情況下可正常使用，行動數據使用時，請先開關一次行動數據或飛航模式
+1. 設定 -> 一般 -> VPN與裝置管理 -> 信任UFOGeo
+2. IOS 開啟 LocalDevVPN 點選 Connect
+3. IOS 開啟 UFOGeo APP
+4. 在匯入配對檔案的地方選擇剛剛放進裝置的 `pairingFile.plist` 
+5. Wifi情況下可正常使用，行動數據使用時，請先開關一次行動數據或飛航模式
 
 ## 致謝
 
